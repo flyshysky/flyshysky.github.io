@@ -47,8 +47,8 @@ author:
     - name: vk
       url:
 home:
-  section1: <h1>Portfolio</h1>
-  section2: <h2><a href="http://flyshysky.github.io/cv">Who is Della Shin?</a> </h2>
+  section1: <h1><a href="http://flyshysky.github.io/cv">Portfolio</a></h1>
+  section2: <h2>Who is Della Shin? </h2>
   section3: <div class="social-links"><a class="ico-github btn" href="https://github.com/flyshysky/flyshysky.github.io" title="View on GitHub"></a></div>
 blog:
   cc_license: http://creativecommons.org/licenses/by-sa/4.0/ # A link to CC License of your choice.
